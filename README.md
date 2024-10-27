@@ -30,6 +30,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 <html>
     <head>
         <style>
@@ -80,8 +81,7 @@ Publish the website in the given URL.
         </script>
 
     </head>
-    <body background="https://st2.depositphotos.com/2124221/46809/i/450/depositphotos_468095768-
-    stock-photo-abstract-multicolored-background-poly-pattern.jpg">
+    <body background="https://st2.depositphotos.com/2124221/46809/i/450/depositphotos_468095768-stock-photo-abstract-multicolored-background-poly-pattern.jpg">
         <div class="box">
         <h1 align="center">Surface Area Of a Cylinder</h1>
         <h2 align="center">(M.MANI SRI LATHA - 21222311025)</h2>
@@ -96,6 +96,7 @@ Publish the website in the given URL.
 
     </body>
 </html>
+```
 ## HOMEPAGE:
 ![Screenshot 2024-10-27 233549](https://github.com/user-attachments/assets/04f17465-b8d8-4352-925a-6ef21655e948)
 
