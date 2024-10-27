@@ -75,13 +75,15 @@ Publish the website in the given URL.
                     return ;
                 }
                 var surfacearea=2*Math.PI*a*(a+b);
-                document.getElementById("result").textContent = "Surface Area =" +surfacearea.toFixed(2)+"square units";
+                document.getElementById("result").textContent = "Surface Area =" +surfacearea.
+toFixed(2)+"square units";
 
             }
         </script>
 
     </head>
-    <body background="https://st2.depositphotos.com/2124221/46809/i/450/depositphotos_468095768-stock-photo-abstract-multicolored-background-poly-pattern.jpg">
+    <body background="https://st2.depositphotos.com/2124221/46809/i/450/depositphotos_468095768-stock
+-photo-abstract-multicolored-background-poly-pattern.jpg">
         <div class="box">
         <h1 align="center">Surface Area Of a Cylinder</h1>
         <h2 align="center">(M.MANI SRI LATHA - 21222311025)</h2>
